@@ -1,0 +1,10 @@
+/home/tuan/dataset/numienbac-luongthuhien/wavs_raw/numienbac-doanngocle-001-000000-000273.wav
+/home/tuan/dataset/numienbac-luongthuhien/wavs_raw/numienbac-doanngocle-001-000298-000826.wav
+/home/tuan/dataset/numienbac-luongthuhien/wavs_raw/numienbac-doanngocle-001-000830-001440.wav
+/home/tuan/dataset/numienbac-luongthuhien/wavs_raw/numienbac-doanngocle-001-001464-002104.wav
+/home/tuan/dataset/numienbac-luongthuhien/wavs_raw/numienbac-doanngocle-001-002104-002280.wav
+/home/tuan/dataset/numienbac-luongthuhien/wavs_raw/numienbac-doanngocle-001-002312-002770.wav
+/home/tuan/dataset/numienbac-luongthuhien/wavs_raw/numienbac-doanngocle-001-002820-003304.wav
+/home/tuan/dataset/numienbac-luongthuhien/wavs_raw/numienbac-doanngocle-001-003313-003796.wav
+/home/tuan/dataset/numienbac-luongthuhien/wavs_raw/numienbac-doanngocle-001-003838-004544.wav
+/home/tuan/dataset/numienbac-luongthuhien/wavs_raw/numienbac-doanngocle-001-004584-005518.wav
